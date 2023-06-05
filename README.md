@@ -1,16 +1,8 @@
-# unit_converter
+# AppDev-Task-1-Unit_Converter
 
-A new Flutter project.
+A Flutter Application which can be used for unit conversion.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is my first submission towards my internship with Oasis Infobyte.
+We can convert within the following units: Metres, Kilometres, Grams, Kilograms, Miles, Feet, Pounds, Ounces.
