@@ -1,4 +1,4 @@
-# AppDev-Task-1-Unit_Converter
+# Unit Converter App
 
 A Flutter Application which can be used for unit conversion.
 
