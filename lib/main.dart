@@ -57,7 +57,7 @@ class _HomeScreenState extends State<HomeScreen> {
     "Ounces": 7
   };
 
-  dynamic _formulas = {
+  final dynamic _formulas = {
     '0': [1, 0.001, 0, 0, 3.28084, 0.000621371, 0, 0],
     '1': [1000, 1, 0, 0, 3280.84, 0.621371, 0, 0],
     '2': [0, 0, 1, 0.0001, 0, 0, 0.00220462, 0.035274],
